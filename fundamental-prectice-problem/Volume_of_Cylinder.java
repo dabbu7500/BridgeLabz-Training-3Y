@@ -8,5 +8,6 @@ public class Volume_of_Cylinder {
         double height=sc.nextDouble();
         double volume=3.14*r*r*height;
         System.out.println("volume :"+volume);
+        sc.close();
     }
 }
