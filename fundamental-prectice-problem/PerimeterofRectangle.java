@@ -8,6 +8,7 @@ public class PerimeterofRectangle {
         int w=sc.nextInt();
         int p=2*(l+w);
         System.out.println("perimeter of rectangle : "+p);
+        sc.close();
     }
     
 }

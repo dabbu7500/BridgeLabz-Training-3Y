@@ -9,5 +9,6 @@ public class Calculate_Si {
         System.out.println("enter the time :");
         int time=sc.nextInt();
         System.out.println("Simple Intrest is :"+((principal*rate*time)/100));
+        sc.close();
     }
 }

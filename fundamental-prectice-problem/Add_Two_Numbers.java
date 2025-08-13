@@ -7,6 +7,6 @@ public class Add_Two_Numbers {
         System.out.print("enter second No. :");
         int secondNumber=sc.nextInt();
         System.out.println("sum ="+(firstNumber+secondNumber));
-
+        sc.close();
     }
 }

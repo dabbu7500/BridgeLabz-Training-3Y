@@ -8,6 +8,7 @@ public class Power_Calculation {
         int exponent=sc.nextInt();
         int ans=(int)Math.pow(base,exponent);
         System.out.println("result ="+ans);
+        sc.close();
 
     }
 

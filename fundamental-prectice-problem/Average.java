@@ -9,6 +9,8 @@ public class Average {
         System.out.println("third number :");
         int third_number=sc.nextInt();
         System.out.println("average of three number :"+((fisrt_number+second_number+third_number)/3));
+        sc.close();
+
     }
 
 }
