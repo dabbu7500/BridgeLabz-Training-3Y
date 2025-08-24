@@ -19,5 +19,7 @@ public class StringCompare {
         }
         System.out.println("Comparison using charAt(): " + isEqual);
         System.out.println("Comparison using equals(): " + str1.equals(str2));
+            sc.close();
+
     }
 }
